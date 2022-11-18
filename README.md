@@ -18,7 +18,7 @@ Dataframes are created by calling
 
 where 0.66*N and 0.33*N are amount of objects in train and test datasets.
 It creates two dataframes: train and test and store them in folder `data`.  
-4th column is linear combination of (1, 2, 3, 4) with random noise. 
+4th column is linear combination of (0, 1, 2, 3) with random noise. 
 
 ### Example:
 ```python gen_data.py 800```
