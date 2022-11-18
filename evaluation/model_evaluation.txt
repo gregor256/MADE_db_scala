@@ -1,0 +1,2 @@
+Train MSE error: 0.9446935243680119  
+Test MSE error: 0.9944772601096946  
